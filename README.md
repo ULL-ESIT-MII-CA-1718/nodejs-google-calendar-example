@@ -17,8 +17,10 @@
 
 Run the following commands to install the libraries using npm:
 
-					npm install googleapis --save
-					npm install google-auth-library --save
+```
+	npm install googleapis --save
+	npm install google-auth-library --save
+```
 
 ### Step 3: Set up the sample
 
@@ -161,7 +163,9 @@ function listEvents(auth) {
 
 Run the sample using the following command:
 
-														node quickstart.js
+```
+	node quickstart.js
+```
 
 The first time you run the sample, it will prompt you to authorize access:
 
