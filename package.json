@@ -1,0 +1,16 @@
+{
+  "name": "google-calendar-example",
+  "version": "1.0.0",
+  "description": "* [Node.js Quickstart](https://developers.google.com/google-apps/calendar/quickstart/nodejs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez-Leon <casiano.rodriguez.leon@gmail.com> (https://github.com/crguezl)",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.12.0",
+    "googleapis": "^23.0.0"
+  }
+}
