@@ -8,7 +8,7 @@ See the tutorial:
 
 1. Use this [wizard](https://console.developers.google.com/start/api?id=calendar) to create or select a project in the Google Developers Console and automatically turn on the API. 
 
-	![](images/inicial.png)
+  ![](images/inicial.png)
   - Click **Continuar**, then **Ir a las credenciales**.
 
     ![](images/2-a-las-credenciales.png)
@@ -25,7 +25,7 @@ See the tutorial:
 8. Move this file to your working directory and rename it `client_secret.json`.
 
   ```json
-			{"installed": {
+      {"installed": {
               "client_id":"blahblah.apps.googleusercontent.com",
               "project_id":"ageless-math-187514",
               "auth_uri":"https://accounts.google.com/o/oauth2/auth",
@@ -42,8 +42,8 @@ See the tutorial:
 Run the following commands to install the libraries using npm:
 
 ```
-	npm install googleapis --save
-	npm install google-auth-library --save
+  npm install googleapis --save
+  npm install google-auth-library --save
 ```
 
 * [GitHub repo google/google-api-nodejs-client](https://github.com/google/google-api-nodejs-client) Google's officially supported Node.js client library for accessing Google APIs.
@@ -193,13 +193,13 @@ function listEvents(auth) {
 Run the sample using the following command:
 
 ```
-	node quickstart.js
+  node quickstart.js
 ```
 
 The first time you run the sample, it will prompt you to authorize access:
 
 1. Browse to the provided URL in your web browser.
 
-	If you are not already logged into your Google account, you will be prompted to log in. If you are logged into multiple Google accounts, you will be asked to select one account to use for the authorization.
+  If you are not already logged into your Google account, you will be prompted to log in. If you are logged into multiple Google accounts, you will be asked to select one account to use for the authorization.
 2. Click the **Accept** button.
 3. Copy the code you're given, paste it into the command-line prompt, and press **Enter**.
