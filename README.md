@@ -12,7 +12,7 @@ See the tutorial:
   - Click **Continuar**, then **Ir a las credenciales**.
 
     ![](images/2-a-las-credenciales.png)
-2. On the Add credentials to your project page, click the **Cancelar** button.
+2. On the **añadir redenciales al proyecto**, click the **Cancelar** button.
   - ![](images/3-anadir-credenciales.png)
 3. At the top of the page, select the **Pantalla de autorización OAuth** screen tab. 
   - Select an Email address, enter a Product name if not already set, and click the **Guardar** button.
