@@ -1,5 +1,7 @@
 ## Google Calendar API
 
+See the tutorial:
+
 * [Node.js Quickstart](https://developers.google.com/google-apps/calendar/quickstart/nodejs)
 
 ### Step 1: Turn on the Google Calendar API
