@@ -18,6 +18,7 @@ See the tutorial:
   - Select an Email address, enter a Product name if not already set, and click the **Guardar** button.
   - ![](images/4-autorizacion-oauth.png)
 4. Select the Credentials tab, click the Create credentials button and select OAuth client ID.
+  - ![](images/crear-credenciales.png)
 5. Select the application type Other, enter the name "Google Calendar API Quickstart", and click the Create button.
 6. Click OK to dismiss the resulting dialog.
 7. Click the `file_download` (Download JSON) button to the right of the client ID.
