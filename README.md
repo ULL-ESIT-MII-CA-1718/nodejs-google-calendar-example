@@ -214,3 +214,14 @@ The first time you run the sample, it will prompt you to authorize access:
   "expiry_date":9999999999999
 }
 ```
+
+```
+[~/CA/google-calendar-example(master)]$ node quickstart.js 
+Upcoming 10 events:
+2017-11-30T09:00:00Z - Tercer Congreso de Estudiantes de Ingeniería Informática de la ULL
+2017-11-30T09:00:00Z - plazo Blah
+2017-11-30T09:00:00Z - November 15, 2017: Notification of Acceptance https://www.igi-global.com/publish/call-for-papers/call-details/3020
+2017-11-30T12:00:00Z - Reunión Blah
+2017-11-30T12:30:00Z - Comisión de Blah
+2017-11-30T16:00:00Z - Tercer Congreso de Blah
+```
