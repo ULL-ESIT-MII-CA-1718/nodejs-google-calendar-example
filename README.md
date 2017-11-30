@@ -25,8 +25,7 @@ See the tutorial:
 8. Move this file to your working directory and rename it `client_secret.json`.
 
   ```json
-			{"installed":
-           {
+			{"installed": {
               "client_id":"blahblah.apps.googleusercontent.com",
               "project_id":"ageless-math-187514",
               "auth_uri":"https://accounts.google.com/o/oauth2/auth",
