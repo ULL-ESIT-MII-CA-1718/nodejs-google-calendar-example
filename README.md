@@ -24,6 +24,20 @@ See the tutorial:
 7. Click the `file_download` (Download JSON) button to the right of the client ID.
 8. Move this file to your working directory and rename it `client_secret.json`.
 
+  ```json
+			{"installed":
+           {
+              "client_id":"blahblah.apps.googleusercontent.com",
+              "project_id":"ageless-math-187514",
+              "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+              "token_uri":"https://accounts.google.com/o/oauth2/token",
+              "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+              "client_secret":"blahblahblah",
+              "redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]
+           }
+      }
+  ```
+
 ### Step 2: Install the client library
 
 Run the following commands to install the libraries using npm:
