@@ -37,6 +37,7 @@ See the tutorial:
       }
   ```
 
+
 ### Step 2: Install the client library
 
 Run the following commands to install the libraries using npm:
@@ -203,3 +204,13 @@ The first time you run the sample, it will prompt you to authorize access:
   If you are not already logged into your Google account, you will be prompted to log in. If you are logged into multiple Google accounts, you will be asked to select one account to use for the authorization.
 2. Click the **Accept** button.
 3. Copy the code you're given, paste it into the command-line prompt, and press **Enter**.
+
+```
+[~/CA/google-calendar-example(master)]$ cat ~/.credentials/calendar-nodejs-quickstart.json 
+{
+  "access_token": "blahblah",
+  "refresh_token":"blahblah",
+  "token_type":"Bearer",
+  "expiry_date":9999999999999
+}
+```
